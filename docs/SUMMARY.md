@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Lorem ipsum](GETTING\_STARTED.md)
+* [This is the initial page](start/GETTING\_STARTED.md)
   * [Page 3](readme/page-3.md)
 * [Page 2](page-2/README.md)
   * [Subpage](page-2/subpage.md)

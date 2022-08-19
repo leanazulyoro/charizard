@@ -1,6 +1,6 @@
 # Table of contents
 
-* [This is the initial page](start/GETTING\_STARTED.md)
+* [This is the initial page](start/GETTING_STARTED.md)
   * [Page 3](readme/page-3.md)
 * [Page 2](page-2/README.md)
   * [Subpage](page-2/subpage.md)
@@ -8,3 +8,4 @@
 ## Group 1
 
 * [Page 4](group-1/page-4.md)
+* [Page 5](group-1/page-5.md)

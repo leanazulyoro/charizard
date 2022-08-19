@@ -15,3 +15,4 @@
 * [BloqStake](bloq-services/bloqstake/README.md)
   * [Ethereum](bloq-services/bloqstake/ethereum.md)
   * [Avalanche](bloq-services/bloqstake/avalanche.md)
+  * [Test page](bloq-services/bloqstake/test-page.md)

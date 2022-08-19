@@ -8,8 +8,8 @@
 
 ## Bloq Services
 
-* [BloqConnect](bloq-services/bloqconnect/README.md)
-  * [Connect Overview](bloq-services/bloqconnect/connect-overview.md)
+* [BloqConnect](bloq-services/bloq-connect/README.md)
+  * [Connect Overview](bloq-services/bloq-connect/connect-overview.md)
 * [BloqNodes](bloq-services/bloqnodes/README.md)
   * [Nodes Overview](bloq-services/bloqnodes/nodes-overview.md)
 * [BloqStake](bloq-services/bloqstake/README.md)

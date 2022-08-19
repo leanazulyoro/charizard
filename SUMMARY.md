@@ -2,7 +2,8 @@
 
 * [Lorem ipsum](README.md)
   * [Page 3](lorem-ipsum/page-3.md)
-* [Page 2](page-2.md)
+* [Page 2](page-2/README.md)
+  * [Subpage](page-2/subpage.md)
 
 ## Group 1
 

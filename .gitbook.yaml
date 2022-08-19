@@ -1,5 +1,1 @@
 root: ./docs/
-
-structure:
-  readme: ./start/GETTING_STARTED.md
-  summary: SUMMARY.md
